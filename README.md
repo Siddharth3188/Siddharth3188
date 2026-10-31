@@ -1,9 +1,9 @@
-<table width="100%" align="center">
+<table width="100%" align="center" border="0">
   <tr>
-    <td width="70%" align="left" valign="middle">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&height=100&pause=1000&color=36BCF7&width=500&lines=Hey+there,+I'm+Siddharth+👋;Web+Developer+%26+UI/UX+Designer+💻;Building+web+apps+and+indie+games+🚀" alt="Typing SVG" /></a>
+    <td width="70%" align="left" valign="middle" style="border: none;">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=24&duration=3000&pause=1000&color=36BCF7&width=500&lines=Hey+there,+I'm+Siddharth+👋;Web+Developer+%26+UI/UX+Designer+💻;Building+web+apps+and+indie+games+🚀" alt="Typing SVG" /></a>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle" style="border: none;">
       <img src="https://media.tenor.com/zduaefgRHq4AAAAi/claude-claude-code.gif" width="120" alt="Animation" />
     </td>
   </tr>
